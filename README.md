@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hey there! 👋 I'm Kushan Tharaka</h1>
-<h3 align="center">💻 Final Year Undergraduate | Passionate Developer | Tech Enthusiast</h3>
+<h3 align="center">💻  Undergraduate | Passionate Developer | Tech Enthusiast</h3>
 
 <!-- Animated Text -->
 <p align="center">
@@ -95,7 +95,7 @@
 
 ### 🐍 Contribution Snake:
 <p align="center">
-  <img src="https://github.com/niroshana-98/Kushan234/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Kushan234/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
