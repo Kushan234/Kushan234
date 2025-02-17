@@ -18,7 +18,7 @@
 
 ### 🚀 About Me:
 - 🌱 Currently learning **Next.js, MongoDB, and Javascript**
-- 💬 Ask me about **React, Javascript, HTML, Next.js**
+- 💬 Ask me about **React Js, Javascript, HTML, Next.js, Tailwind css**
 - 📩 Reach me at: **priyanthapathmakumara26@gmail.com**
 - ⚡ Fun fact: **I love building full-stack projects & learning new frameworks!**
 
@@ -73,29 +73,29 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=niroshana-98&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=niroshana-98&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?Kushan234&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushan234&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🏆 GitHub Achievements:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niroshana-98&theme=onedark" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kushan234&theme=onedark" alt="GitHub Trophies">
 </p>
 
 ---
 
 ### 🎯 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niroshana-98&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushan234&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake:
 <p align="center">
-  <img src="https://github.com/niroshana-98/niroshana-98/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/niroshana-98/Kushan234/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
