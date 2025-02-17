@@ -4,7 +4,7 @@
 
 <!-- Animated Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=F7A41D&width=435&lines=Full-Stack+Developer;Passionate+About+Coding;Next.js+%7C+Java+%7C+MongoDB+Learner;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=F7A41D&width=435&lines=Full-Stack+Developer;Passionate+About+Coding;React.js+%7C+Javascript+%7C+MongoDB+Learner;Always+Learning+New+Things!" />
 </p>
 
 ---
@@ -73,7 +73,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?Kushan234&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kushan234&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushan234&theme=tokyonight" />
 </p>
 
